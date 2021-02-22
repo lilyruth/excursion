@@ -8,10 +8,36 @@ header h1 {
  font-weight: normal;
  font-size: 50px;
  color: white;
+ margin: 1rem 2rem;
 }
 
 .excursion-link {
  color: aquamarine;
  font-size: 16px;
+}
+.video-ad {
+ margin-top: 2rem;
+}
 
+h2 {
+ font-size: 42px;
+ font-weight: 300;
+ color: white;
+}
+
+.commentary {
+ font-size: 21px;
+ color: gray;
+ margin: .5 2rem;
+}
+
+.photo img {
+ text-align: center;
+ width: 70vw;
+ margin-bottom: 2rem;
+}
+
+footer {
+ text-align: right;
+ color: gray;
 }
